@@ -1,2 +1,3 @@
 class Post < ApplicationRecord
-end
+    # Validations, associations, etc.
+  end
